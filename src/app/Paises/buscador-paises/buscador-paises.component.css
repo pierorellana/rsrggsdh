@@ -1,0 +1,45 @@
+h2,
+thead {
+    margin: 20px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+th,
+td {
+    text-align: center;
+}
+
+.fa-bookmark {
+    color: #f9bc60;
+    cursor: pointer;
+}
+
+.small-flag {
+    width: 50px;
+}
+
+.mr-1 {
+    margin-right: 5px;
+}
+
+.row {
+    margin: 20px;
+}
+
+.form-control {
+    width: 800px;
+    margin: auto;
+}
+
+.elements:hover {
+    background-color: #e8e4e6;
+}
+
+.alert {
+    margin: 30px 30px;
+}
